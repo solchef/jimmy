@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design &#8211; Arlo</title>
+	<atom:link href="https://frenify.net/envato/frenify/wp/arlo/demos/personal/myproject-cat/design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://frenify.net/envato/frenify/wp/arlo/demos/personal</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 26 Nov 2019 06:52:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Mockup Collection</title>
+		<link>https://frenify.net/envato/frenify/wp/arlo/demos/personal/myproject/mockup-collection/</link>
+		
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2019 06:52:39 +0000</pubDate>
+				<guid isPermaLink="false">http://frenify.com/envato/frenify/wp/arlo/1/?post_type=arlo-project&#038;p=61</guid>
+
+					<description><![CDATA[Mockup Collection Details: Category:Branding Client:Arloko Corp. Images by:Draxler Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="61" class="elementor elementor-61" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2fd56ae9 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2fd56ae9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3cedd888" data-id="3cedd888" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-35e411da elementor-widget elementor-widget-frel-page-title" data-id="35e411da" data-element_type="widget" data-widget_type="frel-page-title.default">
+				<div class="elementor-widget-container">
+			<div class="cons_w_wrapper"><div class="fn_cs_page_title fn_light_mode"><div class="container"><h3>Mockup Collection</h3></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3f974f85 elementor-widget elementor-widget-frel-portfolio-details" data-id="3f974f85" data-element_type="widget" data-widget_type="frel-portfolio-details.default">
+				<div class="elementor-widget-container">
+			<div class="cons_w_wrapper"><div class="fn_cs_portfolio_details fn_light_mode"><div class="container"><div class="portfolio_details"><div class="left_part"><div class="title_holder"><h3>Details:</h3></div><div class="list_holder"><ul><li><div class="item"><span class="icon"><img class="arlo_w_fn_svg " src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/svg/category-1.svg" alt="svg" /></span><span class="left_i">Category:</span><span class="right_i">Branding</span></div></li><li><div class="item"><span class="icon"><img class="arlo_w_fn_svg " src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/svg/client-7.svg" alt="svg" /></span><span class="left_i">Client:</span><span class="right_i">Arloko Corp.</span></div></li><li><div class="item"><span class="icon"><img class="arlo_w_fn_svg " src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/svg/instagram-3.svg" alt="svg" /></span><span class="left_i">Images by:</span><span class="right_i">Draxler</span></div></li></ul></div></div><div class="right_part"><p>Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, therapy dogs, drug detectors, and of course, man’s best friend. People often seek them out for their incredibly strong hunting abilities. They are excellent swimmers, too, so a nice lake or pool is A-OK! However, they do require regular exercise and would fit best with an active family.</p></div></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5a25eb14 elementor-widget elementor-widget-frel-portfolio-images" data-id="5a25eb14" data-element_type="widget" data-widget_type="frel-portfolio-images.default">
+				<div class="elementor-widget-container">
+			<div class="cons_w_wrapper"><div class="fn_cs_portfolio_images"><div class="container"><ul><li><div class="img_holder"><img src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/img/thumb-560-375.jpg" alt="" /><div class="abs_img" data-bg-img="https://arlo.frenify.net/demos/personal6/wp-content/uploads/2019/11/1.jpg"></div></div></li><li><div class="img_holder"><img src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/img/thumb-560-375.jpg" alt="" /><div class="abs_img" data-bg-img="https://arlo.frenify.net/demos/personal6/wp-content/uploads/2019/11/3.jpg"></div></div></li><li><div class="img_holder"><img src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/img/thumb-560-375.jpg" alt="" /><div class="abs_img" data-bg-img="https://arlo.frenify.net/demos/personal6/wp-content/uploads/2019/11/2-1.jpg"></div></div></li></ul></div></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Yellow Cup</title>
+		<link>https://frenify.net/envato/frenify/wp/arlo/demos/personal/myproject/yellow-cup/</link>
+		
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2019 06:41:40 +0000</pubDate>
+				<guid isPermaLink="false">http://frenify.com/envato/frenify/wp/arlo/1/?post_type=arlo-project&#038;p=45</guid>
+
+					<description><![CDATA[Yellow Cup Details: Category:Branding Client:Arloko Corp. Images by:Draxler Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="45" class="elementor elementor-45" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-12ecc1a7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="12ecc1a7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4838503f" data-id="4838503f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-75b3bf5d elementor-widget elementor-widget-frel-page-title" data-id="75b3bf5d" data-element_type="widget" data-widget_type="frel-page-title.default">
+				<div class="elementor-widget-container">
+			<div class="cons_w_wrapper"><div class="fn_cs_page_title fn_light_mode"><div class="container"><h3>Yellow Cup</h3></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-548d33e8 elementor-widget elementor-widget-frel-portfolio-details" data-id="548d33e8" data-element_type="widget" data-widget_type="frel-portfolio-details.default">
+				<div class="elementor-widget-container">
+			<div class="cons_w_wrapper"><div class="fn_cs_portfolio_details fn_light_mode"><div class="container"><div class="portfolio_details"><div class="left_part"><div class="title_holder"><h3>Details:</h3></div><div class="list_holder"><ul><li><div class="item"><span class="icon"><img class="arlo_w_fn_svg " src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/svg/category-1.svg" alt="svg" /></span><span class="left_i">Category:</span><span class="right_i">Branding</span></div></li><li><div class="item"><span class="icon"><img class="arlo_w_fn_svg " src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/svg/client-7.svg" alt="svg" /></span><span class="left_i">Client:</span><span class="right_i">Arloko Corp.</span></div></li><li><div class="item"><span class="icon"><img class="arlo_w_fn_svg " src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/svg/instagram-3.svg" alt="svg" /></span><span class="left_i">Images by:</span><span class="right_i">Draxler</span></div></li></ul></div></div><div class="right_part"><p>Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, therapy dogs, drug detectors, and of course, man’s best friend. People often seek them out for their incredibly strong hunting abilities. They are excellent swimmers, too, so a nice lake or pool is A-OK! However, they do require regular exercise and would fit best with an active family.</p></div></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2c6de381 elementor-widget elementor-widget-frel-portfolio-images" data-id="2c6de381" data-element_type="widget" data-widget_type="frel-portfolio-images.default">
+				<div class="elementor-widget-container">
+			<div class="cons_w_wrapper"><div class="fn_cs_portfolio_images"><div class="container"><ul><li><div class="img_holder"><img src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/img/thumb-560-375.jpg" alt="" /><div class="abs_img" data-bg-img="https://arlo.frenify.net/demos/personal6/wp-content/uploads/2019/11/1.jpg"></div></div></li><li><div class="img_holder"><img src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/img/thumb-560-375.jpg" alt="" /><div class="abs_img" data-bg-img="https://arlo.frenify.net/demos/personal6/wp-content/uploads/2019/11/3.jpg"></div></div></li><li><div class="img_holder"><img src="https://frenify.net/envato/frenify/wp/arlo/demos/personal/wp-content/plugins/arlo-core/shortcode/assets/img/thumb-560-375.jpg" alt="" /><div class="abs_img" data-bg-img="https://arlo.frenify.net/demos/personal6/wp-content/uploads/2019/11/2-1.jpg"></div></div></li></ul></div></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
